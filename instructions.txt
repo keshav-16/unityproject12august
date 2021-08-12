@@ -1,0 +1,6 @@
+A to move in negative z axis
+S to move in positive z axis
+D to move in negative y axis     (DOWN)
+F to move in positive y axis     (RIGHT) 
+G to move in positive y axis     (UP)
+H to move in negative x axis      (LEFT)
